@@ -7,7 +7,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### User Stories
 
-
 #### REQUIRED (10pts)
 - [✔️ ] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
@@ -23,12 +22,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
  
-<img src="http://g.recordit.co/Fb9tAJbVMV.gif" width=250><br><img src="http://g.recordit.co/pj569sTmsl.gif" width=250><br>
+<img src="http://g.recordit.co/Fb9tAJbVMV.gif" width=250><br>
+<br>
+<img src="http://g.recordit.co/pj569sTmsl.gif" width=250><br>
 
 
 ### Notes
-Describe any challenges encountered while building the app.
-Android studion was really bugging out. Messing my recycler view, and me too 
+Android studio was really bugging out. Messing my recycler view, and me too 
 
 ### Open-source libraries used
 
