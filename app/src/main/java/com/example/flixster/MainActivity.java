@@ -21,8 +21,6 @@ import okhttp3.Headers;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.example.flixster.R.id.rvMovies;
-
 public class MainActivity extends AppCompatActivity {
 
     public static final String NOW_PLAYING_URL = "https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed";
@@ -34,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        RecyclerView rvMovies = findViewById(R.id.rvMovies);
+        RecyclerView rvMovies = findViewById(R.id.container);
         movies = new ArrayList<>();
 
 
