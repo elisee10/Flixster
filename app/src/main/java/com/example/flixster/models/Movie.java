@@ -29,7 +29,7 @@ public class Movie {
 
     public String getPosterPath() {
         //%s --> here is what i want to replace
-        return String.format("https://image.tmdb.org/t/p/w342/%s");
+        return String.format("https://image.tmdb.org/t/p/w342/%s", posterPath);
     }
 
     public String getTitle() {
