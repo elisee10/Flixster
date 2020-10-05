@@ -30,7 +30,9 @@
         android:layout_height="wrap_content"
         android:isIndicator="true"
         android:numStars="10"
+        android:progressTint="#FFDF00"
         android:rating="7.3" />
+
 
     <TextView
         android:id="@+id/tvOverview"
